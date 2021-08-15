@@ -1,4 +1,4 @@
 # FormularioLab
 Tarea de laboratorio, Crear un formulario de venta
 ## Creador
-    Mauricio Apaza Carpio
+    Mauricio Pedro Apaza Carpio
